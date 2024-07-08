@@ -26,10 +26,8 @@ int minutes;
 int seconds;
 int RSSI;
  
-//const char* ssid = "Nusricq702";
-//const char* password = "Nusricq702..";
-const char* ssid = "X的Mate 60 Pro";
-const char* password = "xljxljxlj011214";
+const char* ssid = "******";
+const char* password = "******";
  
 WebServer server(80);
 

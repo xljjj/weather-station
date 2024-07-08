@@ -2,10 +2,9 @@
 #include <LoRa.h>
 #include <WiFi.h>
  
-String apiKey = "2K7OI4IOZUU9AQ70"; // Enter your Write API key from ThingSpeak
-//String apiKey = "YGQLKXWN21DMCO7O"; // Enter your Write API key from ThingSpeak
-const char* ssid = "Nusricq702";
-const char* password = "Nusricq702..";
+String apiKey = "******"; // Enter your Write API key from ThingSpeak
+const char* ssid = "******";
+const char* password = "******";
 const char* server = "api.thingspeak.com";
  
 #define SS 5

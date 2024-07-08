@@ -23,12 +23,8 @@ String lux;
 String windSpeed;
 String windDirection;
  
-//const char* ssid = "NUSRI-CQ6-8F";
-//const char* password = "Nusricq9999";
-//const char* ssid = "Nusricq704";
-//const char* password = "Nusricq704";
-const char* ssid = "Nusricq702";
-const char* password = "Nusricq702..";
+const char* ssid = "******";
+const char* password = "******";
  
 WebServer server(80);  // Use web server on ESP32
  
